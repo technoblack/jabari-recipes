@@ -1,4 +1,4 @@
-body {
+.home {
     background-color: red;
 }
 
@@ -6,3 +6,18 @@ h1 {
     font-size: 64px;
     font-family: "Brush Script MT", cursive;
 }
+
+* {
+    outline: 2px solid blue;
+}
+
+.mac {
+    padding: 20px;
+    margin: 20px
+}
+
+.dave {
+    padding: 20px;
+    background-color: red;
+}
+
